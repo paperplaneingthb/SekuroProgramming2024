@@ -12,4 +12,4 @@ Cara menggunakan program:
   - redo.
 - Pengguna bisa exit dari program setelah simulasi selesai digunakan dengan input 'exit'. 
 
-Maaf saya betul-betul gak paham cara pakai Git kak ToT
+Maaf saya telat kak, betul-betul gak paham cara pakai Git ToT
