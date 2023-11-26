@@ -1,7 +1,7 @@
 # SekuroProgramming2024
-Nama     : Saing, David Horas Boantua
-NIM      : 16023109
-Fakultas : FMIPA
+- Nama     : Saing, David Horas Boantua
+- NIM      : 16023109
+- Fakultas : FMIPA
 
 Cara menggunakan program:
 - Pengguna bisa memasukkan salah satu dari lima input yang tersedia, yaitu:
